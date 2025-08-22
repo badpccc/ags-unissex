@@ -23,7 +23,7 @@ javafx {
 }
 
 application {
-    mainClass.set("com.example.App") // ajuste o pacote/classe principal se mudar
+    mainClass.set("org.example.App") // ajuste o pacote/classe principal se mudar
 }
 
 tasks.test {
