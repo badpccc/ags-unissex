@@ -1,18 +1,17 @@
 package org.example;
 
 import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
 public class App extends Application {
-    @Override
-    public void start(Stage stage) {
-        Button button = new Button("Clique aqui");
-        button.setOnAction(e -> button.setText("Clicado!"));
 
-        Scene scene = new Scene(button, 300, 200);
-        stage.setTitle("JavaFX com Gradle (Kotlin DSL)");
+    @Override
+    public void start(Stage stage) throws Exception {
+        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("/main.fxml"));
+        Scene scene = new Scene(fxmlLoader.load());
+        stage.setTitle("Exemplo de Botão JavaFX");
         stage.setScene(scene);
         stage.show();
     }
