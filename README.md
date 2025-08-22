@@ -16,12 +16,12 @@ O objetivo é trazer praticidade e organização para o dia a dia do seu negóci
 
 | 💻 Tecnologia  | 📝 Descrição                                  |
 |:--------------:|:---------------------------------------------|
-| 🧑‍💻 IntelliJ  | IDE utilizada para o desenvolvimento         |
-| 🎨 JavaFX      | Framework para criação de interfaces gráficas |
-| ☕ Java         | Linguagem principal do projeto                |
-| 🛠️ Gradle      | Gerenciador de dependências e build           |
-| 🗄️ MySQL       | Banco de dados relacional                     |
-| 🐳 Docker      | Containerização e fácil implantação           |
+| 🧑‍💻 IntelliJ  | IDE Utilizada para o Desenvolvimento         |
+| 🎨 JavaFX      | Framework para Criação de Interfaces Gráficas |
+| ☕ Java         | Linguagem Principal do Projeto                |
+| 🛠️ Gradle      | Gerenciador de Dependências e Build           |
+| 🗄️ MySQL       | Banco de Dados Relacional                     |
+| 🐳 Docker      | Containerização e Fácil Implantação           |
 
 ---
 
