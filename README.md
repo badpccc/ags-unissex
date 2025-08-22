@@ -42,10 +42,6 @@ O objetivo é trazer praticidade e organização para o dia a dia do seu negóci
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [badpccc](https://github.com/badpccc)
+Desenvolvido por [badpccc](https://github.com/badpccc). Estudante de Sistemas de Informação - UniRios
 
 ---
-
-## 📝 Licença
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
