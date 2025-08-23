@@ -36,7 +36,7 @@ O objetivo é trazer praticidade e organização para o dia a dia, centralizando
 
 ## 📷 Capturas de Tela
 
-> *(Adicione aqui prints do sistema para enriquecer o README!)*
+> *(Em Desenvolvimento.)*
 
 ---
 
