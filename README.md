@@ -8,7 +8,7 @@ O **AGS Unissex** é um software desenvolvido para facilitar a administração d
 - 💇‍♂️ **Gerenciamento de Tipos de Cortes e Serviços**
 - 💰 **Tela de Finanças para Controle Financeiro**
 
-O objetivo é trazer praticidade e organização para o dia a dia do seu negócio, centralizando as informações mais importantes em um só lugar!
+O objetivo é trazer praticidade e organização para o dia a dia, centralizando as informações mais importantes em um só lugar!
 
 ---
 
