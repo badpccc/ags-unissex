@@ -2,13 +2,13 @@
 
 ## 📖 Sobre o Projeto
 
-O **AGS Unissex** é um software desenvolvido para facilitar a administração de barbearias e salões de cabeleireiro. Utilizando **Java (JavaFX)**, o sistema oferece funcionalidades essenciais para o gerenciamento de **Clientes**, **Serviços** e **Agendamentos**. Com uma interface intuitiva, proporcionando:
+O **AGS Unissex** é um software desenvolvido para facilitar a administração de uma barbearia e salão de cabeleireiro. Utilizando **Java (JavaFX)**, o sistema oferece funcionalidades essenciais para o gerenciamento de **Clientes**, **Serviços** e **Agendamentos**. Com uma interface intuitiva, proporcionando:
 
 - 📅 **Sistema Simples de Agendamento**
 - 💇‍♂️ **Gerenciamento de Tipos de Cortes e Serviços**
 - 💰 **Tela de Finanças para Controle Financeiro**
 
-O objetivo é trazer praticidade e organização para o dia a dia do seu negócio, centralizando as informações mais importantes em um só lugar!
+O objetivo é trazer praticidade e organização para o dia a dia, centralizando as informações mais importantes em um só lugar!
 
 ---
 
@@ -36,7 +36,7 @@ O objetivo é trazer praticidade e organização para o dia a dia do seu negóci
 
 ## 📷 Capturas de Tela
 
-> *(Adicione aqui prints do sistema para enriquecer o README!)*
+> *(Em Desenvolvimento.)*
 
 ---
 

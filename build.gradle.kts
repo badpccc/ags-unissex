@@ -19,7 +19,7 @@ dependencies {
 
 javafx {
     version = "21" // use a versão compatível com seu JDK (pode ser 17, 20 ou 21)
-    modules = listOf("javafx.controls")
+    modules = listOf("javafx.controls", "javafx.fxml")
 }
 
 application {
