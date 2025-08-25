@@ -15,6 +15,8 @@ dependencies {
     testImplementation(platform("org.junit:junit-bom:5.10.0"))
     testImplementation("org.junit.jupiter:junit-jupiter")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+    implementation("io.github.cdimascio:dotenv-java:3.2.0")
+    implementation("org.postgresql:postgresql:42.6.0")
 }
 
 javafx {
@@ -29,3 +31,5 @@ application {
 tasks.test {
     useJUnitPlatform()
 }
+
+
