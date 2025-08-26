@@ -20,7 +20,7 @@ O objetivo é trazer praticidade e organização para o dia a dia, centralizando
 | 🎨 JavaFX      | Framework para Criação de Interfaces Gráficas |
 | ☕ Java         | Linguagem Principal do Projeto                |
 | 🛠️ Gradle      | Gerenciador de Dependências e Build           |
-| 🗄️ MySQL       | Banco de Dados Relacional                     |
+| 🗄️ PostgresSQL       | Banco de Dados Relacional                     |
 | 🐳 Docker      | Containerização e Fácil Implantação           |
 
 ---
